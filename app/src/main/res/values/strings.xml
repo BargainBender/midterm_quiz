@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Midterm Quiz by Sebastian Martinez</string>
+    <string name="enter_string">Enter String</string>
+    <string name="get_answers">Get Answers</string>
+    <string name="question_1">2.1 convert all consonant to $</string>
+    <string name="question_2">2.2 convert the string to uppercase</string>
+    <string name="question_3">2.3 total number of vowels</string>
+</resources>
